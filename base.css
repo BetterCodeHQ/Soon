@@ -1,0 +1,14 @@
+body {
+  background: #02141C;
+  font-family: "Open Sans";
+  font-size: 16px;
+}
+.date {
+  color: white;
+}
+.date-type {
+  font-size: 7em;
+  font-weight: 800;
+  margin-bottom: 0;
+  text-align: center;
+}
