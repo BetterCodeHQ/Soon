@@ -15,6 +15,6 @@ body {
 
 @media screen and (min-width: 400px) {
   .data-type {
-    font-size: 4em;
+    font-size: 1em;
   }
 }
