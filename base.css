@@ -13,8 +13,8 @@ body {
   text-align: center;
 }
 
-@media screen and (min-width: 400px) {
-  .data-type {
+@media screen and (max-width: 400px) {
+  .date-type {
     font-size: 1em;
   }
 }
